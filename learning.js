@@ -13,8 +13,12 @@ console.log(2)
 // });
 
 
-for (i=1; i<=10; i++){
-console.log("I'm printing using loop"+(1+i))
-}
+// for (i=1; i<=10; i++){
+// console.log("I'm printing using loop"+(1+i))
+// }
 
-//loadsh command is used for 
+const data = require("./test.json");
+
+return {
+    data
+}

@@ -1,0 +1,17 @@
+{
+  "project": "QA Automation",
+  "tester": "Chan",
+  "priority": "High",
+  "testCases": [
+    {
+      "id": "TC-01",
+      "title": "Login with valid credentials",
+      "status": "Pass"
+    },
+    {
+      "id": "TC-02",
+      "title": "Login with invalid password",
+      "status": "Fail"
+    }
+  ]
+}
